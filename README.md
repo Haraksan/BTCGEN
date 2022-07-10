@@ -1,2 +1,2 @@
-# BTCGEN
-BTCGENERATOR
+Cryptogenerator seed phrase
+Криптогенератор сид фраз
